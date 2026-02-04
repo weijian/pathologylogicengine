@@ -90,7 +90,8 @@ MDM2/CDK4的诊断地位：
 ◦	MDM2特异性：100%（在适当临床背景下)
 ◦	MDM2+CDK4联合特异性：≈95%
 严格表述：
- 
+ <img width="370" height="134" alt="012" src="https://github.com/user-attachments/assets/0a6db441-5227-4068-a910-6b88ee5cdbf5" />
+
 2.2.1.2. 排除性标志物的逻辑否定
 Myogenin/Desmin的诊断意义：
 •	逻辑关系：Myogenin(-) ∧ Desmin(-) → ¬RMS（横纹肌肉瘤的必要条件缺失）
@@ -98,7 +99,8 @@ Myogenin/Desmin的诊断意义：
 ◦	Myogenin在腺泡状RMS中的敏感性：100%
 ◦	在多形性RMS中：虽略低，但仍为关键标志物
 严格表述：
- 
+ <img width="368" height="118" alt="013" src="https://github.com/user-attachments/assets/150ced75-b40a-44de-908e-c037adc60075" />
+
 2.2.1.3 非特异性标志物的概率陷阱
  Myoglobin的有限诊断价值
 逻辑分析：
@@ -106,7 +108,8 @@ Myogenin/Desmin的诊断意义：
 •	不等价于横纹肌肉瘤诊断
 •	在DDLPS异源性分化中可出现（5-10%病例）
 概率关系：
- 
+ <img width="367" height="129" alt="014" src="https://github.com/user-attachments/assets/56a16077-747a-425d-9491-7fe84e52836c" />
+
 . CD99的非鉴别性
 逻辑特征：泛表达于多种肉瘤
 •	DDLPS、RMS、Ewing肉瘤等均可表达
@@ -118,26 +121,32 @@ Myogenin/Desmin的诊断意义：
 •	大腿深部肿块
 •	20×10 cm巨大体积
 概率调整：
- 
+ <img width="366" height="94" alt="015" src="https://github.com/user-attachments/assets/9573e282-a96b-4c6d-980d-fe8896f72e62" />
+
  后验概率计算逻辑
 综合证据链：
- 
+ <img width="366" height="169" alt="016" src="https://github.com/user-attachments/assets/6dcee24b-60aa-4b90-8a08-940cef03eb9f" />
+
 2.2.1.5诊断逻辑的严格形式化
 充分必要条件分析
- 
+ <img width="363" height="107" alt="017" src="https://github.com/user-attachments/assets/df72ea41-e26c-4db1-a68f-03454d43138c" />
+
 诊断决策树逻辑
- 
+ <img width="366" height="167" alt="018" src="https://github.com/user-attachments/assets/0a8b9b3d-a914-4310-b8ac-603ed6b088f9" />
+
 2.2.1.6 概率修正因素
 免疫组化敏感性的条件依赖
 关键发现：
 •	组织学清晰病例：MDM2敏感性97%，CDK4敏感性92%
 •	组织学模糊病例：MDM2敏感性降至45%，CDK4降至41%
 逻辑含义：
- 
+ <img width="370" height="105" alt="019" src="https://github.com/user-attachments/assets/341e1798-3184-4f50-a980-fd3a30bf1e15" />
+
 
 联合标志物的协同提升
 单一 vs 组合概率：
- 
+ <img width="366" height="45" alt="020" src="https://github.com/user-attachments/assets/9faa88d6-7c51-4114-92d2-2330bbfff8f5" />
+
 2.2.1.7 元逻辑层面的诊断哲学
 "看到什么" vs "没看到什么"的对称性
 正向证据：
@@ -145,15 +154,19 @@ Myogenin/Desmin的诊断意义：
 负向证据：
 •	Myogenin(-) ∧ Desmin(-) → 排除RMS（必要性强）
 逻辑等价性：
- 
+ <img width="368" height="120" alt="021" src="https://github.com/user-attachments/assets/6b3dbe71-ffed-4633-9729-24bef3da3544" />
+
 分子标志物优于形态学的层级
 逻辑优先级：
- 
+ <img width="368" height="232" alt="022" src="https://github.com/user-attachments/assets/2d0a6a37-b496-47be-92b3-103249b891b1" />
+
 2.2.1.8 最终逻辑链的形式化表达
 完整诊断逻辑：
- 
+ <img width="365" height="127" alt="023" src="https://github.com/user-attachments/assets/dc290473-bcbb-441c-961f-68ba05454242" />
+
 2.2.1.9 关键概率-逻辑关系总结表
- 
+ <img width="365" height="127" alt="024" src="https://github.com/user-attachments/assets/926e6785-7db6-4093-b958-9d085d514c18" />
+
 
 诊断确定性 = 决定性证据(MDM2/CDK4) × 排除性证据(Myogenin/Desmin) × 先验概率(临床) ≈ 98%+
 

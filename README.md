@@ -25,7 +25,7 @@ B超影像所见：
 #### 1.3.2肉眼所见：
 送检灰黄色碎组织1堆，大小共约0.7*0.5*0.2cm。
 
- <img width="415" height="162" alt="00" src="https://github.com/user-attachments/assets/a81dac91-803f-434b-9c9a-b90330484bbf" />
+ <img width="100%" alt="00" src="https://github.com/user-attachments/assets/a81dac91-803f-434b-9c9a-b90330484bbf" />
 
 #### 1.3.3光镜所见：
 送检（左大腿肿物穿刺）组织可见密集排列的梭形细胞，瘤细胞大小、形态不一，细胞核细长梭形，部分细胞核卵圆形，核分裂象多见，其间可见多核巨细胞。
@@ -99,7 +99,7 @@ MDM2/CDK4的诊断地位：
 ◦	MDM2+CDK4联合特异性：≈95%
 严格表述：
 
- <img width="370" height="134" alt="012" src="https://github.com/user-attachments/assets/0a6db441-5227-4068-a910-6b88ee5cdbf5" />
+ <img width="100%" alt="012" src="https://github.com/user-attachments/assets/0a6db441-5227-4068-a910-6b88ee5cdbf5" />
 
 #### 2.2.1.2. 排除性标志物的逻辑否定
 Myogenin/Desmin的诊断意义：

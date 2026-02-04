@@ -20,10 +20,15 @@ B超影像所见：
 左大腿肿物穿刺
 1.3.2肉眼所见：
 送检灰黄色碎组织1堆，大小共约0.7*0.5*0.2cm。
- 
+ <img width="415" height="162" alt="00" src="https://github.com/user-attachments/assets/a81dac91-803f-434b-9c9a-b90330484bbf" />
+
 1.3.3光镜所见：
 送检（左大腿肿物穿刺）组织可见密集排列的梭形细胞，瘤细胞大小、形态不一，细胞核细长梭形，部分细胞核卵圆形，核分裂象多见，其间可见多核巨细胞。
- 
+ <img width="415" height="310" alt="01" src="https://github.com/user-attachments/assets/4eb3f8e4-7778-4d28-8bf7-4f4610468175" />
+ <img width="415" height="254" alt="05" src="https://github.com/user-attachments/assets/8a515955-9f1d-41a1-aa69-83baf454cf19" />
+<img width="415" height="261" alt="04" src="https://github.com/user-attachments/assets/d5221d9b-c97b-48f3-8f17-4815023cef7f" />
+<img width="415" height="279" alt="03" src="https://github.com/user-attachments/assets/6db816f5-8a5d-49af-b315-80e10d0a4b85" />
+<img width="415" height="279" alt="02" src="https://github.com/user-attachments/assets/aed9ee45-1cc7-4a9f-a641-d5d71e55c6ba" />
  
 
  
@@ -31,7 +36,14 @@ B超影像所见：
  
 
 1.3.4  免疫组化：CD99（+）、Myoglobin(肌红蛋白)（+）、CK（-）、EMA（-）、Desmin（-）、SMA（-）、Myogenin（-）、S-100（-）、HMB45（-）、CDK4（少量+）、MDM2（+）、ERG（-）、CD34（-）、β-Catenin（浆+）、ALK（-）、KI-67（+，30%）。
- 
+<img width="415" height="298" alt="011" src="https://github.com/user-attachments/assets/07119ed1-78c1-4085-82e3-552773ec4606" />
+<img width="415" height="279" alt="010" src="https://github.com/user-attachments/assets/1a1359f4-c0ba-4498-a293-6bb4608e80ad" />
+<img width="415" height="285" alt="09" src="https://github.com/user-attachments/assets/5b6c9413-f8d6-424b-b16b-6e455d750acc" />
+<img width="415" height="293" alt="08" src="https://github.com/user-attachments/assets/ff0987c6-1435-4124-915a-3d280040d438" />
+<img width="415" height="302" alt="07" src="https://github.com/user-attachments/assets/93f34d81-41f6-4141-bb93-3531301e4d6a" />
+<img width="415" height="299" alt="06" src="https://github.com/user-attachments/assets/363ce293-f9a5-4191-83aa-6f70bada539f" />
+
+
  
  
  

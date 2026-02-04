@@ -20,10 +20,12 @@ B超影像所见：
 左大腿肿物穿刺
 1.3.2肉眼所见：
 送检灰黄色碎组织1堆，大小共约0.7*0.5*0.2cm。
+
  <img width="415" height="162" alt="00" src="https://github.com/user-attachments/assets/a81dac91-803f-434b-9c9a-b90330484bbf" />
 
 1.3.3光镜所见：
 送检（左大腿肿物穿刺）组织可见密集排列的梭形细胞，瘤细胞大小、形态不一，细胞核细长梭形，部分细胞核卵圆形，核分裂象多见，其间可见多核巨细胞。
+
  <img width="415" height="310" alt="01" src="https://github.com/user-attachments/assets/4eb3f8e4-7778-4d28-8bf7-4f4610468175" />
  <img width="415" height="254" alt="05" src="https://github.com/user-attachments/assets/8a515955-9f1d-41a1-aa69-83baf454cf19" />
 <img width="415" height="261" alt="04" src="https://github.com/user-attachments/assets/d5221d9b-c97b-48f3-8f17-4815023cef7f" />
@@ -36,12 +38,13 @@ B超影像所见：
  
 
 1.3.4  免疫组化：CD99（+）、Myoglobin(肌红蛋白)（+）、CK（-）、EMA（-）、Desmin（-）、SMA（-）、Myogenin（-）、S-100（-）、HMB45（-）、CDK4（少量+）、MDM2（+）、ERG（-）、CD34（-）、β-Catenin（浆+）、ALK（-）、KI-67（+，30%）。
+
+<img width="415" height="299" alt="06" src="https://github.com/user-attachments/assets/363ce293-f9a5-4191-83aa-6f70bada539f" />
 <img width="415" height="298" alt="011" src="https://github.com/user-attachments/assets/07119ed1-78c1-4085-82e3-552773ec4606" />
 <img width="415" height="279" alt="010" src="https://github.com/user-attachments/assets/1a1359f4-c0ba-4498-a293-6bb4608e80ad" />
 <img width="415" height="285" alt="09" src="https://github.com/user-attachments/assets/5b6c9413-f8d6-424b-b16b-6e455d750acc" />
 <img width="415" height="293" alt="08" src="https://github.com/user-attachments/assets/ff0987c6-1435-4124-915a-3d280040d438" />
 <img width="415" height="302" alt="07" src="https://github.com/user-attachments/assets/93f34d81-41f6-4141-bb93-3531301e4d6a" />
-<img width="415" height="299" alt="06" src="https://github.com/user-attachments/assets/363ce293-f9a5-4191-83aa-6f70bada539f" />
 
 
  
@@ -90,6 +93,7 @@ MDM2/CDK4的诊断地位：
 ◦	MDM2特异性：100%（在适当临床背景下)
 ◦	MDM2+CDK4联合特异性：≈95%
 严格表述：
+
  <img width="370" height="134" alt="012" src="https://github.com/user-attachments/assets/0a6db441-5227-4068-a910-6b88ee5cdbf5" />
 
 2.2.1.2. 排除性标志物的逻辑否定
@@ -99,6 +103,7 @@ Myogenin/Desmin的诊断意义：
 ◦	Myogenin在腺泡状RMS中的敏感性：100%
 ◦	在多形性RMS中：虽略低，但仍为关键标志物
 严格表述：
+
  <img width="368" height="118" alt="013" src="https://github.com/user-attachments/assets/150ced75-b40a-44de-908e-c037adc60075" />
 
 2.2.1.3 非特异性标志物的概率陷阱
@@ -108,6 +113,7 @@ Myogenin/Desmin的诊断意义：
 •	不等价于横纹肌肉瘤诊断
 •	在DDLPS异源性分化中可出现（5-10%病例）
 概率关系：
+
  <img width="367" height="129" alt="014" src="https://github.com/user-attachments/assets/56a16077-747a-425d-9491-7fe84e52836c" />
 
 . CD99的非鉴别性
@@ -121,17 +127,21 @@ Myogenin/Desmin的诊断意义：
 •	大腿深部肿块
 •	20×10 cm巨大体积
 概率调整：
+
  <img width="366" height="94" alt="015" src="https://github.com/user-attachments/assets/9573e282-a96b-4c6d-980d-fe8896f72e62" />
 
  后验概率计算逻辑
 综合证据链：
+
  <img width="366" height="169" alt="016" src="https://github.com/user-attachments/assets/6dcee24b-60aa-4b90-8a08-940cef03eb9f" />
 
 2.2.1.5诊断逻辑的严格形式化
 充分必要条件分析
+
  <img width="363" height="107" alt="017" src="https://github.com/user-attachments/assets/df72ea41-e26c-4db1-a68f-03454d43138c" />
 
 诊断决策树逻辑
+
  <img width="366" height="167" alt="018" src="https://github.com/user-attachments/assets/0a8b9b3d-a914-4310-b8ac-603ed6b088f9" />
 
 2.2.1.6 概率修正因素
@@ -140,11 +150,13 @@ Myogenin/Desmin的诊断意义：
 •	组织学清晰病例：MDM2敏感性97%，CDK4敏感性92%
 •	组织学模糊病例：MDM2敏感性降至45%，CDK4降至41%
 逻辑含义：
+
  <img width="370" height="105" alt="019" src="https://github.com/user-attachments/assets/341e1798-3184-4f50-a980-fd3a30bf1e15" />
 
 
 联合标志物的协同提升
 单一 vs 组合概率：
+
  <img width="366" height="45" alt="020" src="https://github.com/user-attachments/assets/9faa88d6-7c51-4114-92d2-2330bbfff8f5" />
 
 2.2.1.7 元逻辑层面的诊断哲学
@@ -154,17 +166,21 @@ Myogenin/Desmin的诊断意义：
 负向证据：
 •	Myogenin(-) ∧ Desmin(-) → 排除RMS（必要性强）
 逻辑等价性：
+
  <img width="368" height="120" alt="021" src="https://github.com/user-attachments/assets/6b3dbe71-ffed-4633-9729-24bef3da3544" />
 
 分子标志物优于形态学的层级
 逻辑优先级：
+
  <img width="368" height="232" alt="022" src="https://github.com/user-attachments/assets/2d0a6a37-b496-47be-92b3-103249b891b1" />
 
 2.2.1.8 最终逻辑链的形式化表达
 完整诊断逻辑：
+
  <img width="365" height="127" alt="023" src="https://github.com/user-attachments/assets/dc290473-bcbb-441c-961f-68ba05454242" />
 
 2.2.1.9 关键概率-逻辑关系总结表
+
  <img width="365" height="127" alt="024" src="https://github.com/user-attachments/assets/926e6785-7db6-4093-b958-9d085d514c18" />
 
 

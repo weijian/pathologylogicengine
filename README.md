@@ -187,8 +187,10 @@ Myogenin/Desmin的诊断意义：
 #### 2.2.1.8 最终逻辑链的形式化表达
 完整诊断逻辑：
 
- <img width="100%" alt="023" src="https://github.com/user-attachments/assets/dc290473-bcbb-441c-961f-68ba05454242" />
+<img width="100%" alt="完整" src="https://github.com/user-attachments/assets/814bd378-0093-447e-a506-30b3c8b45970" />
 
+
+ 
 #### 2.2.1.9 关键概率-逻辑关系总结表
 
  <img width="100%" alt="024" src="https://github.com/user-attachments/assets/926e6785-7db6-4093-b958-9d085d514c18" />

@@ -4,16 +4,19 @@
 
 魏建华 广州华银医学检验中心有限公司 weijianhualai@gmail.com
 
-# 前言：
+## 前言：
 病理诊断其实不是黑与白的泾渭分明；也不是0与1的博弈。本文尝试实例化以数理逻辑、概率来解读病理诊断过程。过程已经实现算法编码。
 
 ## 1实例：
 ### 1.1外科病程记录节选
 患者黄**，女，59岁，因“发现左大腿肿物2月余”由门诊于2026年01月26日11时45分拟“左大腿肿物性质待定：纤维瘤？”收入医院。 
 
-#### 1、患者2月余前无明显诱因下发现左大腿内侧见一15cm×10cm肿物，触之质硬，无疼痛，无 红肿发热，2月余来肿物逐渐增大，未予特殊处理，现患者为求系统诊治，遂来我院门诊就诊，门诊拟“左大腿肿物性质待定：纤维瘤？”收入院。入院见：患者神清，精神可，左下肢触及硬性肿物， 无疼痛发热，无皮肤发红，无溃疡、渗液，无皮疹，无头晕胸闷，纳可，眠稍差，二便调。否认高血压、心脏病及糖尿病病史，否认肝炎、结核、伤寒、痢疾等传染病病史，否认外伤、手术及输血 史，否认食物过敏史，预防接种史不详。
+#### 1、病史
 
-#### 2、体查：T:36.5C,P:76次分，B:20次分，BP:142/92mmHg；双肺呼吸音清，未闻及干湿性啰 音。心律齐，各辦膜听诊区未闻及病理性杂音。左下肢大腿内侧处触及大小约20x10cm肿物，质韧。
+患者2月余前无明显诱因下发现左大腿内侧见一15cm×10cm肿物，触之质硬，无疼痛，无 红肿发热，2月余来肿物逐渐增大，未予特殊处理，现患者为求系统诊治，遂来我院门诊就诊，门诊拟“左大腿肿物性质待定：纤维瘤？”收入院。入院见：患者神清，精神可，左下肢触及硬性肿物， 无疼痛发热，无皮肤发红，无溃疡、渗液，无皮疹，无头晕胸闷，纳可，眠稍差，二便调。否认高血压、心脏病及糖尿病病史，否认肝炎、结核、伤寒、痢疾等传染病病史，否认外伤、手术及输血 史，否认食物过敏史，预防接种史不详。
+
+#### 2、体查：
+T:36.5C,P:76次分，B:20次分，BP:142/92mmHg；双肺呼吸音清，未闻及干湿性啰 音。心律齐，各辦膜听诊区未闻及病理性杂音。左下肢大腿内侧处触及大小约20x10cm肿物，质韧。
 
 ### 1.2影像记录：节选
 B超影像所见：
@@ -109,7 +112,7 @@ Myogenin/Desmin的诊断意义：
 ◦	在多形性RMS中：虽略低，但仍为关键标志物
 严格表述：
 
- <img width="368" height="118" alt="013" src="https://github.com/user-attachments/assets/150ced75-b40a-44de-908e-c037adc60075" />
+ <img width="100%" alt="013" src="https://github.com/user-attachments/assets/150ced75-b40a-44de-908e-c037adc60075" />
 
 #### 2.2.1.3 非特异性标志物的概率陷阱
  Myoglobin的有限诊断价值
@@ -119,7 +122,7 @@ Myogenin/Desmin的诊断意义：
 •	在DDLPS异源性分化中可出现（5-10%病例）
 概率关系：
 
- <img width="367" height="129" alt="014" src="https://github.com/user-attachments/assets/56a16077-747a-425d-9491-7fe84e52836c" />
+ <img width="100%" alt="014" src="https://github.com/user-attachments/assets/56a16077-747a-425d-9491-7fe84e52836c" />
 
 . CD99的非鉴别性
 逻辑特征：泛表达于多种肉瘤
@@ -133,21 +136,21 @@ Myogenin/Desmin的诊断意义：
 •	20×10 cm巨大体积
 概率调整：
 
- <img width="366" height="94" alt="015" src="https://github.com/user-attachments/assets/9573e282-a96b-4c6d-980d-fe8896f72e62" />
+ <img width="100%" alt="015" src="https://github.com/user-attachments/assets/9573e282-a96b-4c6d-980d-fe8896f72e62" />
 
  后验概率计算逻辑
 综合证据链：
 
- <img width="366" height="169" alt="016" src="https://github.com/user-attachments/assets/6dcee24b-60aa-4b90-8a08-940cef03eb9f" />
+ <img width="100%" alt="016" src="https://github.com/user-attachments/assets/6dcee24b-60aa-4b90-8a08-940cef03eb9f" />
 
 #### 2.2.1.5诊断逻辑的严格形式化
 充分必要条件分析
 
- <img width="363" height="107" alt="017" src="https://github.com/user-attachments/assets/df72ea41-e26c-4db1-a68f-03454d43138c" />
+ <img width="100%" alt="017" src="https://github.com/user-attachments/assets/df72ea41-e26c-4db1-a68f-03454d43138c" />
 
 诊断决策树逻辑
 
- <img width="366" height="167" alt="018" src="https://github.com/user-attachments/assets/0a8b9b3d-a914-4310-b8ac-603ed6b088f9" />
+ <img width="100%" alt="018" src="https://github.com/user-attachments/assets/0a8b9b3d-a914-4310-b8ac-603ed6b088f9" />
 
 #### 2.2.1.6 概率修正因素
 免疫组化敏感性的条件依赖
@@ -156,13 +159,13 @@ Myogenin/Desmin的诊断意义：
 •	组织学模糊病例：MDM2敏感性降至45%，CDK4降至41%
 逻辑含义：
 
- <img width="370" height="105" alt="019" src="https://github.com/user-attachments/assets/341e1798-3184-4f50-a980-fd3a30bf1e15" />
+ <img width="100%" alt="019" src="https://github.com/user-attachments/assets/341e1798-3184-4f50-a980-fd3a30bf1e15" />
 
 
 联合标志物的协同提升
 单一 vs 组合概率：
 
- <img width="366" height="45" alt="020" src="https://github.com/user-attachments/assets/9faa88d6-7c51-4114-92d2-2330bbfff8f5" />
+ <img width="100%" alt="020" src="https://github.com/user-attachments/assets/9faa88d6-7c51-4114-92d2-2330bbfff8f5" />
 
 #### 2.2.1.7 元逻辑层面的诊断哲学
 "看到什么" vs "没看到什么"的对称性
@@ -172,21 +175,21 @@ Myogenin/Desmin的诊断意义：
 •	Myogenin(-) ∧ Desmin(-) → 排除RMS（必要性强）
 逻辑等价性：
 
- <img width="368" height="120" alt="021" src="https://github.com/user-attachments/assets/6b3dbe71-ffed-4633-9729-24bef3da3544" />
+ <img width="100%" alt="021" src="https://github.com/user-attachments/assets/6b3dbe71-ffed-4633-9729-24bef3da3544" />
 
 分子标志物优于形态学的层级
 逻辑优先级：
 
- <img width="368" height="232" alt="022" src="https://github.com/user-attachments/assets/2d0a6a37-b496-47be-92b3-103249b891b1" />
+ <img width="100%" alt="022" src="https://github.com/user-attachments/assets/2d0a6a37-b496-47be-92b3-103249b891b1" />
 
 #### 2.2.1.8 最终逻辑链的形式化表达
 完整诊断逻辑：
 
- <img width="365" height="127" alt="023" src="https://github.com/user-attachments/assets/dc290473-bcbb-441c-961f-68ba05454242" />
+ <img width="100%" alt="023" src="https://github.com/user-attachments/assets/dc290473-bcbb-441c-961f-68ba05454242" />
 
 #### 2.2.1.9 关键概率-逻辑关系总结表
 
- <img width="365" height="127" alt="024" src="https://github.com/user-attachments/assets/926e6785-7db6-4093-b958-9d085d514c18" />
+ <img width="100%" alt="024" src="https://github.com/user-attachments/assets/926e6785-7db6-4093-b958-9d085d514c18" />
 
 
 诊断确定性 = 决定性证据(MDM2/CDK4) × 排除性证据(Myogenin/Desmin) × 先验概率(临床) ≈ 98%+
@@ -199,4 +202,5 @@ Myogenin/Desmin的诊断意义：
 
 参考文献：
 本文无参考文献
-<img width="415" height="677" alt="image" src="https://github.com/user-attachments/assets/08c777e5-26ad-49d8-8edd-c073d8198865" />
+
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/08c777e5-26ad-49d8-8edd-c073d8198865" />
